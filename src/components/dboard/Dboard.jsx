@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Dboard.css"
-import { DataGrid, GridColDef,  } from '@mui/x-data-grid';
+import { DataGrid  } from '@mui/x-data-grid';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 70 },
